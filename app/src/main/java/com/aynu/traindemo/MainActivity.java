@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         x.view().inject(this);
         initActionBar();
         initListenter();
-        //修改提交
         initView();
     }
     CompanyAdapter adapter;
