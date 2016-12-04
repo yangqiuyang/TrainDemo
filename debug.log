@@ -17,3 +17,49 @@
 [1204/201223:ERROR:main_delegate.cc(571)] Could not load cef.pak
 [1204/201223:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
 [1204/201223:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1204/203751:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[1204/203751:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[1204/203751:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[1204/203751:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[1204/203751:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1204/204248:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/204248:ERROR:content_client.cc(136)] No localized string available for id 28000
+[1204/204248:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/204248:ERROR:content_client.cc(136)] No localized string available for id 28001
+[1204/204248:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/204248:ERROR:content_client.cc(136)] No localized string available for id 28013
+[1204/204248:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/204248:ERROR:content_client.cc(136)] No localized string available for id 28014
+[1204/204248:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/204248:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/204425:ERROR:content_client.cc(148)] No data resource available for id 4700
+[1204/204639:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[1204/204639:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[1204/204639:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[1204/204639:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[1204/204639:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1204/204935:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[1204/204935:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[1204/204935:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[1204/204935:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[1204/204935:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[1204/210422:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210422:ERROR:content_client.cc(136)] No localized string available for id 28000
+[1204/210422:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210422:ERROR:content_client.cc(136)] No localized string available for id 28001
+[1204/210422:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210422:ERROR:content_client.cc(136)] No localized string available for id 28013
+[1204/210422:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210422:ERROR:content_client.cc(136)] No localized string available for id 28014
+[1204/210422:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210422:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210424:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210424:ERROR:content_client.cc(136)] No localized string available for id 28000
+[1204/210424:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210424:ERROR:content_client.cc(136)] No localized string available for id 28001
+[1204/210424:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210424:ERROR:content_client.cc(136)] No localized string available for id 28013
+[1204/210424:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210424:ERROR:content_client.cc(136)] No localized string available for id 28014
+[1204/210424:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[1204/210424:WARNING:resource_bundle.cc(497)] locale resources are not loaded
