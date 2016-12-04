@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context="com.aynu.traindemo.MainActivity">
+
+   <EditText
+       android:id="@+id/content_select_train"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:background="@drawable/select_bg"
+       android:hint="请输入要查询的培训公司"
+       android:gravity="center_vertical"
+       android:textSize="15dp"
+       android:paddingLeft="15dp"
+       android:layout_margin="5dp"
+
+       />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+        <TextView
+            android:id="@+id/select_train"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:textSize="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:background="@drawable/select_btn"
+            android:gravity="center"
+            android:clickable="true"
+            android:text="查询"/>
+
+        <TextView
+            android:id="@+id/insert_train"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:textSize="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:background="@drawable/select_btn"
+            android:gravity="center"
+            android:clickable="true"
+            android:text="插入"/>
+    </LinearLayout>
+
+
+    <ListView
+        android:layout_marginTop="10dp"
+        android:id="@+id/company_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+</LinearLayout>
